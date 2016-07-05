@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Om 4 dage flyver vi afsted...
-datePublished: '2016-07-05T20:10:51.847Z'
-dateModified: '2016-07-05T20:10:27.585Z'
+datePublished: '2016-07-05T20:19:01.231Z'
+dateModified: '2016-07-05T20:18:52.879Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-05-om-4-dage-flyver-vi-afsted.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-05-om-4-dage-flyver-vi-afsted.md
 url: om-4-dage-flyver-vi-afsted/index.html
 _type: Article
 
